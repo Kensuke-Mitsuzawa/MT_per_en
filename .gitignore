@@ -1,0 +1,11 @@
+*pyc
+*swp
+
+download.php?f=TEP%2Fen-fa.txt.zip
+unziped_moses/TEP.en-fa.en
+unziped_moses/TEP.en-fa.fa
+unziped_moses/TEP.en-fa.fa.roman
+unziped_moses/fa_side/
+unziped_moses/en_side/
+unziped_moses/lm_model/TMC/
+unziped_moses/
