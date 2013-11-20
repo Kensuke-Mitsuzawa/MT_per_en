@@ -1,6 +1,10 @@
 *pyc
 *swp
+*.log*
+after_mert.txt
+before_mert.txt
 
+mert-work/
 download.php?f=TEP%2Fen-fa.txt.zip
 unziped_moses/TEP.en-fa.en
 unziped_moses/TEP.en-fa.fa
